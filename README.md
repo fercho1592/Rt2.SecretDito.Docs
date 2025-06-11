@@ -1,4 +1,4 @@
-# 🎁 SecretDito: Intercambios Secretos 🎁
+# 🎁 SecretDito: Secret Exchange Draw App 🎁
 SecretDito is a mobile (and web) application designed to simplify and automate the process of organizing secret gift exchanges (like "Secret Santa" or "White Elephant") among friends or small groups. Developed as a portfolio project to practice and solidify software development concepts, SecretDito ensures fair, transparent, and user-friendly draws, eliminating the need for physical slips of paper and preserving the excitement of the surprise.
 
 ## Project Components:
